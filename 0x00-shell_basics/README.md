@@ -1,2 +1,1 @@
-Display contents of your current directory
-Display content list of your current directory
+A readme describing Task zero
